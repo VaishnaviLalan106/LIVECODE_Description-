@@ -1,7 +1,7 @@
 ![App Preview](UIformat.png)
 
-
-[🚀 Try LiveCode App](https://collab-editor-12.preview.emergentagent.com/)
+This is just the format we are not completely using this. 
+[🚀 Try LiveCode App](https://collab-editor-12.preview.emergentagent.com/)   [expires in 30 mins]
 
 This UI is mainly built using these things 👇✨
 
